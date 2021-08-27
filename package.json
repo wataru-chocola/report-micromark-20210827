@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "micromark": "^3.0.5",
+   "ts-node": "^10.2.0",
+   "esm": "github:agoric-labs/esm#Agoric-built"
+  }
+}
